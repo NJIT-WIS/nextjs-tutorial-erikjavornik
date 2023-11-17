@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Placeholder</p>
+        <p> My goal is to apply the knowledge I gain as a Data Science graduate student in a manufacturing setting. I am currently working as a Process Engineer in manufacturing while pursuing a master's degree in data science.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
